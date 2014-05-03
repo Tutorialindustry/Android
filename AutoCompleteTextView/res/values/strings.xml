@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AutoCompleteTextView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="list_of_cities">
+        <item>Hyderabad</item>
+        <item>Banka</item>
+        <item>Ahmedabad</item>
+        <item>Bangalore</item>
+        <item>Bhabua</item>
+        <item>Cuttack</item>
+        <item>Channai</item>
+        <item>Hapur</item>
+        <item>Hilsa</item>
+></string-array>
+
+</resources>
