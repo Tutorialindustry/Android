@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SpinnerExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="cities_array">
+        <item>Hyderabad</item>
+        <item>Banglore</item>
+        <item>Channai</item>
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Vskp</item>
+        <item>Pune</item>
+        <item>Nagpur</item>
+    </string-array>
+
+</resources>
