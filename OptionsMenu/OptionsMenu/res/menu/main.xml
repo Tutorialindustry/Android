@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menu_settings" android:orderInCategory="100"   
+    android:showAsAction="never" android:title="@string/menu_settings"/>
+    <item android:id="@+id/item1" android:title="Tutorial 1"></item>
+    <item android:id="@+id/item2" android:title="Tutorial 2"></item>
+    <item android:id="@+id/item3" android:title="Tutorial 3"></item>
+    <item android:id="@+id/item4" android:title="Tutorial 4"></item>
+    <item android:id="@+id/item5" android:title="Tutorial 5"></item>
+</menu>
