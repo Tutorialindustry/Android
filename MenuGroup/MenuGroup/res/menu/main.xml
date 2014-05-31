@@ -1,0 +1,46 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <group android:checkableBehavior="single" >
+        <item
+            android:id="@+id/a_positive"
+            android:orderInCategory="1"
+            android:showAsAction="never"
+            android:title="@string/a_positive"/>
+        <item
+            android:id="@+id/a_negative"
+            android:orderInCategory="1"
+            android:showAsAction="never"
+            android:title="@string/a_negative"/>
+        <item
+            android:id="@+id/b_positive"
+            android:orderInCategory="1"
+            android:showAsAction="never"
+            android:title="@string/b_positive"/>
+        <item
+            android:id="@+id/b_negative"
+            android:orderInCategory="1"
+            android:showAsAction="never"
+            android:title="@string/b_negative"/>
+        <item
+            android:id="@+id/o_positive"
+            android:orderInCategory="1"
+            android:showAsAction="never"
+            android:title="@string/o_positive"/>
+        <item
+            android:id="@+id/o_negative"
+            android:orderInCategory="1"
+            android:showAsAction="never"
+            android:title="@string/o_negative"/>
+        <item
+            android:id="@+id/ab_positive"
+            android:orderInCategory="1"
+            android:showAsAction="never"
+            android:title="@string/ab_positive"/>
+        <item
+            android:id="@+id/ab_negative"
+            android:orderInCategory="1"
+            android:showAsAction="never"
+            android:title="@string/ab_negative"/>
+    </group>
+
+</menu>

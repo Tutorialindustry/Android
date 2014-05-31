@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MenuGroup</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menugroup_example">Menu Group Example</string>
+    <string name="selected_bloodgroup">Selected Blood Group</string>
+    <string name="a_positive">A+</string>
+    <string name="a_negative">A-</string>
+    <string name="b_positive">B+</string>
+    <string name="b_negative">B-</string>
+    <string name="o_positive">O+</string>
+    <string name="o_negative">O-</string>
+    <string name="ab_positive">AB+</string>
+    <string name="ab_negative">AB-</string>
+
+</resources>
