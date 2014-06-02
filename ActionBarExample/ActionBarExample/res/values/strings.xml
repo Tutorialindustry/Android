@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActionBarExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="actionbar_example">Action Bar Example</string>
+    <string name="download">Download</string>
+    <string name="sendmsg">Send Msg</string>
+    <string name="openmsg">Open Msg</string>
+    <string name="search">Search</string>
+    <string name="tutorial_insustry">Tutorialindustry</string>
+
+</resources>
